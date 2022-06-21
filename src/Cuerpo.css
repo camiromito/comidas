@@ -1,9 +1,8 @@
-.foto1 {
+.foto {
   width: 50%;
   height: 50%;
 }
 
-.foto2 {
-  width: 50%;
-  height: 50%;
+.fuente-grande {
+  font-style: oblique;
 }

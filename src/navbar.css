@@ -1,8 +1,16 @@
-.logo{
-    background-color: lightblue;
-    color: white;
-    border: 1px solid lightblue;
-    border-radius: 15px;
-    padding: 5px;
-    box-shadow: 1px 1px 1px 1px lightblue;
+.logo {
+  background-color: lightblue;
+  color: white;
+  border: 1px solid lightblue;
+  border-radius: 15px;
+  padding: 5px;
+  box-shadow: 1px 1px 1px 1px lightblue;
+}
+
+.nav-link {
+  color: white !important;
+}
+
+.navbar {
+    background-color: #00000087;
 }
